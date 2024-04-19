@@ -11,3 +11,4 @@ onde ticket médio = média do total gasto por pedido para cada cliente.
 Para isso, vocês receberam uma base de dados (arquivo csv) e devem construir um código em Python que gera um output também csv, porém contendo apenas a identificação do cliente e métricas RFM.
 
 Habilidades desenvolvidas
+Phyton, SKLearn, Pandas, Seaborn, Regressão Linear
